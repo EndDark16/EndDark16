@@ -1,3 +1,11 @@
+<!-- technical-overview: EndDark16/EndDark16 -->
+
+**Introduccion tecnica**
+
+Repositorio especial de GitHub cuyo README se publica como presentacion del perfil. En su estado actual contiene documentacion de perfil, no una aplicacion ejecutable ni un stack de software.
+
+---
+
 ### Andrés Felipe Melo Chaguala
 Systems & Computing Engineer — Subachoque, Cundinamarca, Colombia
 [LinkedIn](www.linkedin.com/in/andresmeloafmc) · [Email](andresfelipe16200411@gmail.com)
