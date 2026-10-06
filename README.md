@@ -1,34 +1,200 @@
-<!-- technical-overview: EndDark16/EndDark16 -->
+# Hi, I'm Andrés Felipe Melo Chaguala 👋
 
-**Introduccion tecnica**
+### Software Engineer · Backend & Full-Stack Developer
 
-Repositorio especial de GitHub cuyo README se publica como presentacion del perfil. En su estado actual contiene documentacion de perfil, no una aplicacion ejecutable ni un stack de software.
+I'm a **Systems & Computing Engineer from Colombia** focused on building backend services, REST APIs, full-stack applications, and applied machine learning solutions.
 
----
+I enjoy turning ideas into **reliable, maintainable software** with a strong focus on APIs, databases, authentication, testing, containerization, and clean architecture.
 
-### Andrés Felipe Melo Chaguala
-Systems & Computing Engineer — Subachoque, Cundinamarca, Colombia
-[LinkedIn](www.linkedin.com/in/andresmeloafmc) · [Email](andresfelipe16200411@gmail.com)
-
----
-
-#### Technical Focus
-- **Backend:** Python (FastAPI, Flask), Node.js, C#, C++, SQL, PostgreSQL, Supabase, Prisma ORM
-- **Machine Learning:** Scikit-learn, Pandas, NumPy (Classification, Clustering, NLP pipelines)
-- **Infrastructure:** Docker, Docker Compose, Git, Vercel, Render
+* 💻 Backend-focused developer with **Python, FastAPI, Flask, C# and .NET**
+* 🌐 Full-stack experience with **React, Next.js and TypeScript**
+* 🗄️ Experience with **PostgreSQL, SQL Server, Prisma and SQLAlchemy**
+* 🤖 Applied Machine Learning with **Scikit-learn, Pandas and NumPy**
+* 🐳 Docker, Git, GitHub Actions and deployment workflows
+* 💼 **Open to Software Engineering opportunities**
+* 📍 Cundinamarca, Colombia
 
 ---
 
-#### Repositories
+## 🛠️ Tech Stack
 
-- **[CognIA](https://github.com/EndDark16/CognIA)**  
-  Flask REST API for mental health screening using a Scikit-learn Random Forest classification model. Includes PostgreSQL, JWT authentication, RBAC, and Docker containerization.
+**Languages**
 
-- **[SpartanFit](https://github.com/EndDark16/SpartanFit)**  
-  Gym management and workout tracking web platform built with TypeScript, Next.js, React, Tailwind CSS, Prisma ORM, and PostgreSQL on Supabase.
+`Python` `C#` `TypeScript` `JavaScript` `C++` `SQL`
 
-- **[Voter-Intention-Prediction](https://github.com/EndDark16)**  
-  Predictive data pipeline using a KNN model wrapped in a FastAPI REST API with a React visualization interface.
+**Backend**
 
-- **[Hospital-Location-Optimization](https://github.com/EndDark16)**  
-  Unsupervised learning project implementing K-Means clustering in FastAPI for healthcare infrastructure allocation.
+`FastAPI` `Flask` `ASP.NET Core` `.NET` `Node.js`
+
+**Frontend**
+
+`React` `Next.js` `Tailwind CSS`
+
+**Databases & ORM**
+
+`PostgreSQL` `SQL Server` `Prisma` `SQLAlchemy` `Supabase`
+
+**Machine Learning & Data**
+
+`Scikit-learn` `Pandas` `NumPy`
+
+**DevOps & Tools**
+
+`Docker` `Docker Compose` `Git` `GitHub Actions` `Linux` `Swagger / OpenAPI`
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 CognIA
+
+**Backend & Machine Learning API**
+
+A backend platform for mental health screening in a simulated environment, combining REST APIs, machine learning, authentication, authorization, databases, testing, and containerization.
+
+**Tech:** `Python` `Flask` `PostgreSQL` `SQLAlchemy` `Scikit-learn` `JWT` `Docker`
+
+**Highlights**
+
+* REST API architecture with Flask
+* Machine learning inference with Scikit-learn
+* PostgreSQL with SQLAlchemy and Alembic
+* JWT authentication and role-based access control
+* MFA support
+* API documentation with OpenAPI
+* Rate limiting and security-focused middleware
+* Automated testing with Pytest
+* Dockerized development and deployment
+* CI workflows with GitHub Actions
+
+> Built as a software engineering project, not as a clinical diagnostic system.
+
+**[View Repository →](https://github.com/EndDark16/CognIA)**
+
+---
+
+## 💪 SpartanFit
+
+**Full-Stack Fitness Platform**
+
+A full-stack application designed around gym management and training workflows, combining a modern web interface with a relational backend.
+
+**Tech:** `TypeScript` `Next.js` `React` `Tailwind CSS` `Prisma` `PostgreSQL` `Supabase`
+
+**Highlights**
+
+* Full-stack Next.js application
+* TypeScript-based development
+* PostgreSQL relational database
+* Prisma ORM
+* Modern responsive interface
+* Backend and frontend integration
+* Cloud-backed database infrastructure
+
+**[View Repository →](https://github.com/EndDark16/spartanfit-mvp)**
+
+---
+
+## 📊 Voter Intention Prediction
+
+**End-to-End Machine Learning Application**
+
+An end-to-end machine learning project that predicts voter intention using a K-Nearest Neighbors classification pipeline and exposes the model through a web API.
+
+**Tech:** `Python` `Scikit-learn` `FastAPI` `React` `Vite` `Docker`
+
+**Highlights**
+
+* Data preprocessing and missing-value handling
+* Scikit-learn machine learning pipeline
+* KNN classification
+* Cross-validation and model evaluation
+* FastAPI inference service
+* React frontend for model interaction
+* Docker Compose environment
+* Automated report and artifact generation
+
+**[View Repository →](https://github.com/EndDark16/voter_intentions)**
+
+---
+
+## ⚙️ WebApiUdApp
+
+**ASP.NET Core REST API**
+
+A backend project focused on building a structured REST API with authentication, relational data access, and API documentation.
+
+**Tech:** `C#` `.NET 8` `ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT` `Swagger`
+
+**Highlights**
+
+* RESTful API architecture
+* Entity Framework Core
+* SQL Server integration
+* JWT authentication
+* Swagger / OpenAPI documentation
+* Backend-focused application structure
+
+**[View Repository →](https://github.com/EndDark16/WebApiUdApp)**
+
+---
+
+# 🧩 What I Like Building
+
+I enjoy working on software where **backend engineering, data, and real-world applications intersect**.
+
+My main areas of interest are:
+
+* 🔹 Backend development
+* 🔹 REST API design
+* 🔹 Full-stack web applications
+* 🔹 Database-driven systems
+* 🔹 Authentication & authorization
+* 🔹 Applied Machine Learning
+* 🔹 Software architecture
+* 🔹 Testing & code quality
+* 🔹 Docker & CI/CD
+
+---
+
+# 📚 Engineering Approach
+
+I care about building software that is not only functional, but also **understandable, testable, secure, and maintainable**.
+
+Some principles I try to apply in my projects:
+
+* Clean separation of responsibilities
+* API-first development
+* Relational database design
+* Secure authentication and authorization
+* Automated testing
+* Containerized environments
+* Clear documentation
+* Reproducible development workflows
+* Continuous improvement
+
+---
+
+# 🎯 Career Goals
+
+I'm currently looking for opportunities as a:
+
+**Backend Developer · Software Engineer · Full-Stack Developer**
+
+with particular interest in roles involving:
+
+`Python` · `FastAPI` · `Flask` · `C#` · `.NET` · `TypeScript` · `React` · `PostgreSQL` · `APIs` · `Cloud` · `Applied AI/ML`
+
+I'm especially interested in teams where I can contribute to real software products while continuing to grow as a software engineer.
+
+---
+
+# 📫 Let's Connect
+
+**LinkedIn:** [linkedin.com/in/andresmeloafmc](https://www.linkedin.com/in/andresmeloafmc)
+
+I'm open to connecting with developers, engineers, recruiters, and teams working on interesting software projects.
+
+---
+
+### Thanks for visiting my profile! 🚀
